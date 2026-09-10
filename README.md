@@ -1,14 +1,13 @@
 # Lenguaje de Programación 2 - Taller 1
 
-![commits](https://badgen.net/github/commits/UR-CC/lp2-taller1?icon=github) 
-![last_commit](https://img.shields.io/github/last-commit/UR-CC/lp2-taller1)
+![commits](https://badgen.net/github/commits/clubdecomputacion/lp2-taller1?icon=github) 
+![last_commit](https://img.shields.io/github/last-commit/clubdecomputacion/lp2-taller1)
 
 - ver [badgen](https://badgen.net/) o [shields](https://shields.io/) para otros tipos de _badges_
 
-## Autores
+## Autor
 
-- [@estudiante1](https://www.github.com/estudiante1)
-- [@estudiante2](https://www.github.com/estudiante2)
+- [@estudiante](https://www.github.com/estudiante)
 
 ## Descripción del Proyecto
 
@@ -22,28 +21,8 @@ Morbi quam lectus, tempus sit amet mi non, facilisis dignissim erat. Aenean tort
 
 1. Clonar el proyecto
 ```bash
-git clone https://github.com/UR-CC/lp2-taller1.git
+git clone https://github.com/clubdecomputacion/lp2-taller1.git
 ```
 
-2. Crear y activar entorno virtual
-```bash
-cd lp2-taller1
-python -m venv venv
-venv/bin/activate
-```
-
-3. Instalar librerías y dependencias
-```bash
-pip install -r requirements
-```
-    
-## Ejecución
-
-Maecenas sed lorem at arcu varius mollis. Sed eleifend nulla ut blandit interdum. Donec sollicitudin nunc at orci facilisis dignissim. Donec at arcu luctus, commodo magna eget, blandit leo.
-
-1. Ejecutar el proyecto
-```bash
-cd lp2-taller1
-python app.py
-```
+2. Revisar la [`GUIA.md`](docs/GUIA.md)
 
