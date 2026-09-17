@@ -12,5 +12,33 @@
     "nombre": "Memoria USB 64GB",
     "precio": 39900,
     "foto": "images/usb-kingston-64gb.jpg"
+  },
+   {
+    "sku": "TEC-003",
+    "marca": "Samsung",
+    "nombre": "SSD 1TB EVO",
+    "precio": 289900,
+    "foto": "images/ssd-samsung-evo.jpg"
+  },
+  {
+    "sku": "TEC-004",
+    "marca": "HP",
+    "nombre": "Teclado mecánico retroiluminado",
+    "precio": 199900,
+    "foto": "images/teclado-hp.jpg"
+  },
+  {
+    "sku": "TEC-005",
+    "marca": "Sony",
+    "nombre": "Audífonos Bluetooth WH-1000XM5",
+    "precio": 1299900,
+    "foto": "images/audifonos-sony.jpg"
+  },
+  {
+    "sku": "TEC-006",
+    "marca": "Apple",
+    "nombre": "Cargador MagSafe para iPhone",
+    "precio": 249900,
+    "foto": "images/cargador-magsafe.jpg"
   }
 ]
